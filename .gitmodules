@@ -1,3 +1,6 @@
 [submodule "salt/roots/formulas/opendj-formula"]
 	path = salt/roots/formulas/opendj-formula
 	url = https://github.com/extra2000/opendj-formula.git
+[submodule "salt/roots/formulas/podman-formula"]
+	path = salt/roots/formulas/podman-formula
+	url = https://github.com/extra2000/podman-formula.git
