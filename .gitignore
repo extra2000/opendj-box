@@ -1,0 +1,6 @@
+.vagrant
+vagrant/*
+!vagrant/examples
+salt/roots/pillar/*
+!salt/roots/pillar/podman.sls.example
+!salt/roots/pillar/opendj.sls.example
